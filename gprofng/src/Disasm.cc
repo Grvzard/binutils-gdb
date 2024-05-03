@@ -28,7 +28,7 @@
 #include "demangle.h"
 #include "dbe_types.h"
 #include "DbeSession.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Disasm.h"
 #include "Stabs.h"
 #include "i18n.h"

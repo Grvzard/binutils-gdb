@@ -22,7 +22,7 @@
 #include <sys/param.h>
 
 #include "util.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Dwarf.h"
 #include "stab.h"
 #include "DbeSession.h"

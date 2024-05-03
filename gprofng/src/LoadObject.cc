@@ -28,7 +28,7 @@
 #include "Experiment.h"
 #include "Exp_Layout.h"
 #include "DataObject.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Function.h"
 #include "Module.h"
 #include "ClassFile.h"

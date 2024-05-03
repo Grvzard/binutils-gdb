@@ -24,7 +24,7 @@
 #include "util.h"
 #include "bfd.h"
 #include "elf-bfd.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Map.h"
 #include "StringBuilder.h"
 #include "DbeFile.h"

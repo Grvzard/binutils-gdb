@@ -29,7 +29,7 @@
 #include "gp-defs.h"
 #include "StringBuilder.h"
 #include "CompCom.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "util.h"
 #include "i18n.h"
 #include "comp_com.c"

@@ -24,7 +24,7 @@
 #include "util.h"
 #include "Dwarf.h"
 #include "DwarfLib.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Function.h"
 #include "Module.h"
 #include "StringBuilder.h"

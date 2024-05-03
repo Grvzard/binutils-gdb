@@ -21,7 +21,7 @@
 #include "config.h"
 #include "util.h"
 #include "DbeSession.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "Stabs.h"
 #include "Dwarf.h"
 #include "DataObject.h"

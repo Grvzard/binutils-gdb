@@ -25,7 +25,7 @@
 #include <sys/param.h>
 
 #include "gp-defs.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "collctrl.h"
 #include "i18n.h"
 #include "util.h"

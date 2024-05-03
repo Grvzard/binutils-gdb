@@ -39,7 +39,7 @@
 #include "Dwarf.h"
 #include "DbeFile.h"
 #include "PathTree.h"
-#include "Elf.h"
+#include "Elf.hpp"
 
 Module::Module ()
 {

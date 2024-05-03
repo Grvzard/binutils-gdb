@@ -29,7 +29,7 @@
 #include <sys/stat.h>
 #include <errno.h>
 #include <i18n.h>
-#include <Elf.h>
+#include "Elf.hpp"
 #include <collctrl.h>
 #include <StringBuilder.h>
 #include "collect.h"

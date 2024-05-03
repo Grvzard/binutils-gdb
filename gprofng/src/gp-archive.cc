@@ -30,7 +30,7 @@
 #include "DbeSession.h"
 #include "DbeFile.h"
 #include "SourceFile.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "gp-archive.h"
 #include "ArchiveExp.h"
 #include "Print.h"

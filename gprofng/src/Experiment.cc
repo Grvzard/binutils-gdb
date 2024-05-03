@@ -37,7 +37,7 @@
 #include "DefaultHandler.h"
 #include "DefaultMap2D.h"
 #include "Emsg.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "SAXParser.h"
 #include "SAXParserFactory.h"
 #include "StringBuilder.h"

@@ -32,7 +32,7 @@
 #include "Module.h"
 #include "PRBTree.h"
 #include "Sample.h"
-#include "Elf.h"
+#include "Elf.hpp"
 #include "StringBuilder.h"
 
 void
